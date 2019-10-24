@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What else is there to say...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Chris Kirk. I have been working in the Software Development industry for almost 20 years.
+Most of that time has been spent working with the Java technology stack.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Disclaimer
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The views, thoughts, and opinions expressed here belong solely to the author, and not necessarily to the author’s employer, organization, committee or other group or individual.
